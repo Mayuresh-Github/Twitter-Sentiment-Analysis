@@ -1,5 +1,6 @@
 # Twitter-Sentiment-Analysis
-Mini-Project for Twitter Sentiment Analysis using Twitter API
+Mini-Project for Twitter Sentiment Analysis using Twitter API.
+The final output is a Graph representing number of Positive and Negative Tweets and User can also save all details to a CSV file.
 
 # Twitter API Keys
   - Goto [Twitter Developer Dashboard](https://developer.twitter.com/en/portal/dashboard) and register using your Twitter Account <br>
