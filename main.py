@@ -11,6 +11,7 @@ from twitter_analyze import TwitterSentiment
 from custom_input import CustomSentiment
 
 # Authorization of Twitter API
+## Input your own keys here
 auth = tweepy.OAuthHandler("IrTKOcdQzkDosVyKimjkwu4ha", "Zwfi6hkDGouh5xfwdj9naPVXO9M8fNvYggswPcLwPBmFMJpgv5")
 auth.set_access_token("1258597505412894720-iyeAXocmtVB77YTiWnPND3irqLwHXT",
                       "IajZmQPjy6F17fVlhvmgIIb1AdAxoJ9lMeMNO6TQKE4Lz")
